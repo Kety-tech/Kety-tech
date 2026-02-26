@@ -16,11 +16,16 @@
 💬 Sempre aberta para trocar experiências, aprender e compartilhar conhecimento!
 
 ⭐ *“Aprender, criar e evoluir todos os dias.”*
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kety-tech&show_icons=true&theme=rose_pine" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kety-tech&layout=compact&theme=rose_pine" />
-</div>
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kety-tech/kety-tech/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kety-tech/kety-tech/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kety-tech/kety-tech/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kety-tech/kety-tech/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kety-tech/kety-tech/output/github-contribution-grid-snake.svg">
