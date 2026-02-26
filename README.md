@@ -1,7 +1,7 @@
 # 🌸 Olá, eu sou a Ketlyn Rocha!
 
 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por tecnologia.  
-💡 Adoro aprender coisas novas, criar projetos e transformar ideias em realidade.  
+💡  Objetivo é criar projetos e transformar ideias em realidade.  
 💻 Tenho interesse em **desenvolvimento web**, **bancos de dados** e em explorar novas ferramentas que tornam o aprendizado ainda mais divertido!
 
 ✨ Aqui no GitHub compartilho meus estudos, projetos pessoais e tudo o que aprendo ao longo da minha jornada na área de tecnologia.
