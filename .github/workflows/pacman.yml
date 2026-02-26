@@ -29,8 +29,15 @@ jobs:
           dot_color: "#FF1493"          # rosa mais escuro (deep pink)
           grid_color: "#B0B0B0"         # cinza claro
 
-      - name: Criar pasta dist
-        run: mkdir -p dist/pacman && mv pacman-contribution-graph*.svg dist/pacman/ || echo "Nenhum arquivo SVG encontrado"
+      - name: Procurar o arquivo SVG gerado e exibir
+        run: |
+          echo "Arquivos SVG encontrados:"
+          find . -name "*.svg" || echo "Nenhum SVG encontrado!"
+
+      - name: Criar pasta dist e mover o SVG gerado
+        run: |
+          mkdir -p dist/pacman
+          find . -name "pacman-contribution-graph*.svg" -exec mv {} dist/pacman/ \; || echo "Nenhum arquivo SVG movido"
 
       - name: Publicar no branch output-pacman
         uses: crazy-max/ghaction-github-pages@v3.1.0
