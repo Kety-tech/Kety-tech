@@ -11,7 +11,7 @@
 
 # 🌸 Olá, eu sou a Ketlyn Rocha!
 
-<img align="right" height="200" src="https://github.com/Kety-tech/Kety-tech/blob/main/arte.png?raw=true" " alt="Ketlyn avatar" style="border-radius: 20px; box-shadow: 0px 0px 15px #f4a8d4;"/>
+<img align="right" height="200" src="https://github.com/Kety-tech/Kety-tech/blob/main/arte.png?raw=true" alt="Ketlyn avatar" style="border-radius: 20px; box-shadow: 0px 0px 15px #f4a8d4;"/>
 
 🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por tecnologia.  
 💡 Meu objetivo é **criar projetos** e **transformar ideias em realidade**.  
